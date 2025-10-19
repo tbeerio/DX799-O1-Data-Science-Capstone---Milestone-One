@@ -12,18 +12,18 @@ The analysis progresses over six weeks of modeling experiments, each introducing
 ├── Beer_Tim_Week_4.ipynb        # Week 4 – Logistic Classification (Expansion vs. Contraction)  
 ├── Beer_Tim_Week_5.ipynb        # Week 5 – Support Vector Regression (Linear vs. RBF)  
 ├── Beer_Tim_Week_6.ipynb        # Week 6 – Decision Tree and Random Forest Models  
-│
+
 ├── fredmd_clean.csv             # Cleaned macroeconomic dataset (1959–2025 sample)  
 ├── X_transformed_week2.csv      # Transformed features (ADF-based transformations)  
 ├── y_target_week2.csv           # Target variable: Δlog(INDPRO) × 100  
-│
+
 ├── week3_model_comparison.csv   # Model comparison metrics from Week 3  
 ├── week3_best_predictions.csv   # Best test predictions from Week 3 (PLSR)  
 ├── week4_logit_results.csv      # Logistic regression results summary  
 ├── week4_logit_test_probs.csv   # Predicted probabilities from logistic models  
 ├── week6_dt_baseline_results.csv# Decision tree regression results  
 ├── week6_rf_results.csv         # Random forest regression results  
-│
+
 ├── feature_correlations_full.csv# Correlation matrix used in Week 1 EDA  
 ├── 2025-09-MD.csv               # Raw input macro panel (FRED-MD base)  
 │
