@@ -1,5 +1,3 @@
-**Project Title**
-
 **Modeling U.S. Macroeconomic Activity Using the FRED-MD Dataset**
 
 **Overview**
